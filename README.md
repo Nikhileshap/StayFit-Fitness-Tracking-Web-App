@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # StayFit - Your Personal Fitness Companion 🏋️‍♀️
 
 A comprehensive web application that helps users track their fitness journey with personalized diet plans powered by AI. Built with HTML, CSS, JavaScript, Firebase, and the Gemini API.
