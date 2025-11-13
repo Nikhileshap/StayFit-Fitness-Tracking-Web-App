@@ -306,16 +306,7 @@ StayFit-App/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -390,4 +381,4 @@ If you encounter any issues or have questions:
 - **Security**: Firebase Authentication + Firestore Rules
 =======
 # StayFit-Fitness-Tracking-Web-App
->>>>>>> 99578685905e2283dc9a5664adeb2875bad50012
+
